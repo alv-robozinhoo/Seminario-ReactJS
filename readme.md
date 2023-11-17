@@ -9,16 +9,21 @@ ReactJS resolve o problema da construção eficiente de interfaces do usuário p
 ## Instalação & Configuração
 
 Para começar com o ReactJS, siga os passos abaixo:
-
-1. **Crie um novo aplicativo React:**
+1. **Instale o NodeJS e o NPM**
+   ```bash
+   sudo apt install  nodejs
+   ```
+   Ou usando o site oficial: https://nodejs.org/en/
+   
+3. **Crie um novo aplicativo React:**
    ```bash
    npx create-react-app my-app
    ```
-2. **Vá até o diretório da sua aplicação:**
+4. **Vá até o diretório da sua aplicação:**
    ```bash
    cd my-app
    ```
-3. **Inicie o servidor de desenvolvimento:**
+5. **Inicie o servidor de desenvolvimento:**
    ```bash
    npm start
    ```
