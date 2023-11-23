@@ -5,7 +5,11 @@
 
 **Valor: 10 pontos**
 
-**Grupo: 5 alunos**
+**Grupo: 5 ↠ 3 alunos**
+
+Raphael | Rafael | Bernardo
+
+[Link para a gravação](https://drive.google.com/file/d/1cDbGAymi5NOl1PBkUOl4J4elnws9_n8p/view?usp=sharing)
 
 ---
 
